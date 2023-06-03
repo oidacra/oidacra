@@ -7,7 +7,7 @@
 
 💻 I've worked extensively with various programming languages such as PHP, Typescript, and JavaScript. I have deep knowledge in frameworks like Angular, NestJS, and CakePHP, leveraging their power to create robust and scalable applications.
 
-🌟 I'm passionate about continuous learning and staying updated with the latest trends in the ever-evolving field of software development. Exploring my projects below, you'll find a showcase of my expertise and dedication to crafting high-quality software solutions.
+🌟 I'm passionate about continuous learning and staying updated with the latest trends in the ever-evolving field of software development. 
 
 
 ![GitHub Profile](https://github-profile-trophy.vercel.app/?username=oidacra&theme=onedark&margin-w=15&margin-h=15&column=7)
