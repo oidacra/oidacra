@@ -9,9 +9,13 @@
 
 👋 Systems Engineer from Panama 🇵🇦, based in Ontario, Canada 🇨🇦, with over 17 years building for the web.
 
-🅰️ **Google Developer Expert in Angular** and co-organizer of [NgPanama](https://github.com/NgPanama). Senior Software Engineer at [@dotCMS](https://github.com/dotCMS), where I lead Angular migrations and architecture work.
+🅰️ **Google Developer Expert in Angular** and co-organizer of [NgPanama](https://github.com/NgPanama).
 
-💻 Angular, TypeScript, and NestJS day to day, with a long tail of PHP and JavaScript behind me. Lately most of my time goes into how AI fits into the way software actually gets built.
+💼 Senior Software Engineer at [@dotCMS](https://github.com/dotCMS). I ship features across the product's Angular UI — experiments, content editing, the image and block editors — along with the architecture, framework upgrades and build tooling underneath them.
+
+🤖 The other half of my work is AI in the development workflow: building agents and Claude Code plugins for code review and delivery, MCP integrations over internal tooling, and LLM features that reach users. I do the same on my own time in RigDash, with Vertex AI and Google Cloud.
+
+💻 Angular, TypeScript and NestJS day to day, with a long tail of PHP and JavaScript behind me.
 
 ## 🏗️ Currently building
 
