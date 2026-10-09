@@ -7,7 +7,7 @@
 
 ## About me
 
-👋 Systems Engineer from Panama 🇵🇦, based in Ontario, Canada 🇨🇦, with over 17 years building for the web.
+👋 Systems Engineer from Panama 🇵🇦, based in Ontario, Canada 🇨🇦, with over 19 years building for the web.
 
 🅰️ **Google Developer Expert in Angular** and co-organizer of [NgPanama](https://github.com/NgPanama).
 
