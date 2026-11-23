@@ -3,17 +3,17 @@
 [![Blog](https://img.shields.io/badge/Blog-arcadioquintero.com-2563EB?style=for-the-badge&logo=rss&logoColor=white)](https://arcadioquintero.com/)
 [![Google Developer Expert](https://img.shields.io/badge/Google%20Developer%20Expert-Angular-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://g.dev/oidacra)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oidacra/)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/oidacra)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/oidacra)
 
 ## About me
 
-👋 Systems Engineer from Panama 🇵🇦, based in Ontario, Canada 🇨🇦, with over 19 years building for the web.
+👋 Senior Software Engineer from Panama 🇵🇦, based in Ontario, Canada 🇨🇦, with over 19 years building for the web. My focus today is AI-native engineering: coding agents and spec-driven development.
 
 🅰️ **Google Developer Expert in Angular** and co-organizer of [NgPanama](https://github.com/NgPanama).
 
 💼 Senior Software Engineer at [@dotCMS](https://github.com/dotCMS). I ship features across the product's Angular UI — experiments, content editing, the image and block editors — along with the architecture, framework upgrades and build tooling underneath them.
 
-🤖 The other half of my work is AI in the development workflow: building agents and Claude Code plugins for code review and delivery, MCP integrations over internal tooling, and LLM features that reach users. I do the same on my own time in RigDash, with Vertex AI and Google Cloud.
+🤖 The other half of my work is AI in the development workflow: building agents and Claude Code plugins for code review and delivery, MCP integrations over internal tooling, and LLM features that reach users. I do the same on my own time in RigDash, which I build with a spec-driven workflow on Claude Code; its AI features run on Gemini Enterprise Agent Platform, on Google Cloud.
 
 💻 Angular, TypeScript and NestJS day to day, with a long tail of PHP and JavaScript behind me.
 
@@ -21,9 +21,9 @@
 
 **[RigDash](https://rigdash.io)** — a multi-gym SaaS for CrossFit boxes that I build on my own, end to end.
 
-Recurring billing gates bookings for unpaid members, and an AI assistant on Vertex AI + Google ADK drafts the coach's weekly WOD programming for review. Copilot, not autopilot.
+Recurring billing gates bookings for unpaid members, and an AI assistant on Gemini Enterprise Agent Platform + Google ADK drafts the coach's weekly WOD programming for review. Copilot, not autopilot.
 
-`Angular 22` `NgRx Signals` `NestJS 11` `PostgreSQL` `Prisma` `Vertex AI` `Google Cloud` `Nx` `Playwright`
+`Angular 22` `NgRx Signals` `NestJS 11` `PostgreSQL` `Prisma` `Gemini Enterprise Agent Platform` `Google Cloud` `Nx` `Playwright`
 
 ## ✍️ Writing
 
