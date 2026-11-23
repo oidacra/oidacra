@@ -13,7 +13,7 @@
 
 💼 Senior Software Engineer at [@dotCMS](https://github.com/dotCMS). I ship features across the product's Angular UI — experiments, content editing, the image and block editors — along with the architecture, framework upgrades and build tooling underneath them.
 
-🤖 The other half of my work is AI in the development workflow: building agents and Claude Code plugins for code review and delivery, MCP integrations over internal tooling, and LLM features that reach users. I do the same on my own time in RigDash, which I build with a spec-driven workflow on Claude Code; its AI features run on Vertex AI and Google Cloud.
+🤖 The other half of my work is AI in the development workflow: building agents and Claude Code plugins for code review and delivery, MCP integrations over internal tooling, and LLM features that reach users. I do the same on my own time in RigDash, which I build with a spec-driven workflow on Claude Code; its AI features run on Gemini Enterprise Agent Platform, on Google Cloud.
 
 💻 Angular, TypeScript and NestJS day to day, with a long tail of PHP and JavaScript behind me.
 
@@ -21,9 +21,9 @@
 
 **[RigDash](https://rigdash.io)** — a multi-gym SaaS for CrossFit boxes that I build on my own, end to end.
 
-Recurring billing gates bookings for unpaid members, and an AI assistant on Vertex AI + Google ADK drafts the coach's weekly WOD programming for review. Copilot, not autopilot.
+Recurring billing gates bookings for unpaid members, and an AI assistant on Gemini Enterprise Agent Platform + Google ADK drafts the coach's weekly WOD programming for review. Copilot, not autopilot.
 
-`Angular 22` `NgRx Signals` `NestJS 11` `PostgreSQL` `Prisma` `Vertex AI` `Google Cloud` `Nx` `Playwright`
+`Angular 22` `NgRx Signals` `NestJS 11` `PostgreSQL` `Prisma` `Gemini Enterprise Agent Platform` `Google Cloud` `Nx` `Playwright`
 
 ## ✍️ Writing
 
